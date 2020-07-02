@@ -1,0 +1,5 @@
+year    undergraduate student      graduate student
+2017    50                              60
+2018    40                              70
+2019    80                              50
+2020    100                             85
